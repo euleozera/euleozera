@@ -1,4 +1,4 @@
-### Olá ! 
+### Olá ! eu sou Leonardo Melo 😃
 
 
 - 🔭 Hoje trabalho com back-end
@@ -11,9 +11,14 @@
 </div>
   
   <div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
+    <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Leo-Post" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Leo-Pycharm" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">     
+  </div>
+    
+          
 
+  ## 
   
   <div>
     <a href="https://instagram.com/euleozera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
