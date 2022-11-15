@@ -1,8 +1,35 @@
-### Olá ! eu sou Leonardo Melo 😃
+## Heeey 🖖🏽
+
+<div>
+  <a href = "mailto:leonardogvmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/leozera#5889" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/euleozera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
+ 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+class Dev:
+
+    def __init__(self):
+        self.name = "Leonardo_Melo"
+        self.role = "back_end"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Dev()
+me.say_hi()
+```
+
+##
 
 <div align="center">
   <a href="https://github.com/euleozera">
@@ -20,8 +47,4 @@
 
   ## 
   
-  <div>
-    <a href="https://instagram.com/euleozera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/leozera#5889" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:leonardogvmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=euleozera.euleozera)
