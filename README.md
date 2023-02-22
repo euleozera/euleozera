@@ -14,18 +14,18 @@
 # -*- coding: utf-8 -*-
 
 
-class Dev:
+class Analyst:
 
     def __init__(self):
         self.name = "Leonardo_Melo"
-        self.role = "back_end"
+        self.role = "data_analyst"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = Dev()
+me = Analyst()
 me.say_hi()
 ```
 
